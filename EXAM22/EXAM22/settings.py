@@ -25,7 +25,7 @@ SECRET_KEY = 'bb837cbe-aa31-43c7-85c9-c04bccda51bf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://exam2220240910072544.azurewebsites.net"]
+ALLOWED_HOSTS = ["https://fff3h9a5dmhjbbdz.eastus-01.azurewebsites.net"]
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
